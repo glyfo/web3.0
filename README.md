@@ -24,5 +24,14 @@ Blockchain is a special database to support save information wihtout has a middl
 ## Physical Card wallet ? 
 
 
+## Passkey ?
+
+Using Key Pair to eliminate password use. The Private Key is save into the mobile device and the public key is save on the server. 
+
+https://developer.apple.com/videos/play/wwdc2022/10092/
+
+
+
+
 
 
