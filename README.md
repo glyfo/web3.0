@@ -21,14 +21,17 @@ https://bitcoin.org/bitcoin.pdf
 
 Blockchain is a special database to support save information wihtout has a middleman. This technology use a public key and secret key to give control to the user to move or change things. 
 
-## Physical Card wallet ? 
+## Paper wallet ? 
 
+The paper wallet is a paper with 2 QR printer. The first QR is a public key and the second QR is a secret key.
 
 ## Passkey ?
 
 Using Key Pair to eliminate password use. The Private Key is save into the mobile device and the public key is save on the server. 
 
 https://developer.apple.com/videos/play/wwdc2022/10092/
+
+
 
 
 
