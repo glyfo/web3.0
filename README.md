@@ -28,11 +28,11 @@ The paper wallet is a paper with 2 QR printer. The first QR is a public key and 
 
 ## Passkey ?
 
-Using Key Pair to eliminate password use. The Private Key is save into the mobile device and the public key is save on the server. 
+A passkey is a digital credential, tied to a user account and a website or application. Passkeys allow users to authenticate without having to enter a username, password, or provide any additional authentication factor. This technology aims to replace legacy authentication mechanisms such as passwords.
+
+Passkey using public and secret key to website access. Device create a pairkey and save secret key and shared public key with the server to register this public key. 
 
 https://developer.apple.com/videos/play/wwdc2022/10092/
-
-
 
 
 ## Reference 
