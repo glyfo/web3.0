@@ -17,7 +17,7 @@ A Peer-to-Peer Electronic Cash System. This platform support send value to other
 
 https://bitcoin.org/bitcoin.pdf
 
-## What is a wallet ? 
+## What is a blockchain ? 
 
 Blockchain is a special database to support save information wihtout has a middleman. This technology use a public key and secret key to give control to the user to move or change things. 
 
