@@ -1,7 +1,8 @@
 # Web 3.0 Ecosystem 
 
 ## What is a phygital?
-Phygital (physical plus digital) is a marketing term that describes blending digital experiences with physical ones.
+
+The term “Phygital” is a fusion of the words physical and digital.
 
 ## What is web3 ? 
 
