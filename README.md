@@ -24,7 +24,8 @@ Blockchain is a special database to support save information wihtout has a middl
 
 ## Paper wallet ? 
 
-The paper wallet is a paper with 2 QR printer. The first QR is a public key and the second QR is a secret key.
+The paper wallet is a paper with 2 printer QR. The first QR is a public key and the second QR is a secret key.This information has capabilities to access and transfer the object to other account.
+
 
 ## Passkey ?
 
@@ -33,6 +34,8 @@ A passkey is a digital credential, tied to a user account and a website or appli
 Passkey using public and secret key to website access. Device create a pairkey and save secret key and shared public key with the server to register this public key. 
 
 https://developer.apple.com/videos/play/wwdc2022/10092/
+
+https://developer.apple.com/videos/play/wwdc2021/10106/
 
 
 ## Reference 
